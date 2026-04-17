@@ -1,4 +1,4 @@
-# Hi, I'm Kaan 👋
+# Hi, I'm Ramiz K. 👋
 
 Backend-focused Software Engineer and Architect-in-progress, building distributed systems and cloud-native platforms.
 
@@ -40,7 +40,6 @@ I enjoy working close to the system boundaries — from domain modeling to deplo
 
 ## 🚀 Current Focus
 
-- Building **OpsBridge** — an event-driven messaging & operations platform
 - Deepening expertise in **system design and distributed architectures**
 - Cloud-native backend engineering
 
