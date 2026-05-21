@@ -22,7 +22,7 @@ I enjoy working close to the system boundaries — from domain modeling to deplo
 ## 🛠 Tech Stack
 
 **Backend & Architecture**
-- .NET / C#
+- .NET / C# / Java
 - Distributed Systems
 - Event-Driven Architecture
 - Domain-Driven Design (DDD)
